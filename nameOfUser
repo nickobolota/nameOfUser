@@ -1,0 +1,7 @@
+let nameOfUser = (a) =>{
+    let user = a;
+    return user
+}
+
+
+console.log(nameOfUser(john));
